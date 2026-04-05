@@ -1,20 +1,22 @@
-# 👋 Hi, I'm Mohhamed
+# 🌐 Mohhamed Portfolio
 
-💻 Frontend Developer
-🚀 I build modern and responsive websites
+🚀 Live Demo: https://portfolio-mohhamed2.netlify.app/
 
-## 🛠 Skills
+## 📌 About
 
-* HTML, CSS, JavaScript
-* Python (Flask)
+This is my personal portfolio website where I showcase my skills and projects as a Frontend Developer.
 
-## 🌐 Portfolio
+## 🛠 Technologies
 
-👉 https://portfolio-mohhamed2.netlify.app/
+* HTML
+* CSS
+* JavaScript
 
-## 📂 Projects
+## ✨ Features
 
-* Portfolio Website
-* Flask App
+* Responsive design
+* Clean UI
+* Fast performance
 
-⭐ Always learning & improving
+
+
